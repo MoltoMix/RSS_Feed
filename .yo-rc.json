@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "knowit-webpart-rssfeed",
+    "libraryId": "a043d525-31d2-4261-acb8-308f3ab9a262",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "knowit_webpart_rssfeed",
+    "solutionShortDescription": "knowit_webpart_rssfeed description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

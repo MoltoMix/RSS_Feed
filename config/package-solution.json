@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "knowit-webpart-rssfeed-client-side-solution",
+    "id": "a043d525-31d2-4261-acb8-308f3ab9a262",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "knowit_webpart_rssfeed description"
+      },
+      "longDescription": {
+        "default": "knowit_webpart_rssfeed description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "knowit-webpart-rssfeed Feature",
+        "description": "The feature that activates elements of the knowit-webpart-rssfeed solution.",
+        "id": "92ed5ae8-64c5-4404-8fe0-1789b2760cd1",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/knowit-webpart-rssfeed.sppkg"
+  }
+}
